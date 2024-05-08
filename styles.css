@@ -1,4 +1,8 @@
-body, h1 {
-    background-color: burlywood;
-}
 
+body {
+    background-color: burlywood;
+    color: rgb(46, 3, 3);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
