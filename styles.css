@@ -1,8 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
 body {
-    background-color: burlywood;
+    background-color: rgba(247, 206, 156, 0.747);
     color: rgb(46, 3, 3);
-    margin-left: 10%;
-    margin-right: 10%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    display: block;
+    background-color: antiquewhite;
+    margin: 50px 100px;
+    padding: 10px 0;
+}
+
+.title {
+    background-color: burlywood;
+    text-align: center;
+    margin: 0 10px 10px 10px;
+    padding: 10px;
+}
+
+li {
+    margin: 0 10px;
+    padding: 5px;
+}
+
+ul {
+    background-color: rgb(243, 205, 148);
+    padding: 5px 10px 5px 20px;
+    margin: 0px 10px;
 }
